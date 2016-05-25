@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1464181087 source:d:\semanticimagesegmentation\c model neurona\simpleneuron4hls\simpleneuron\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nn_defs.h"
+
+1464181033 d:\semanticimagesegmentation\c model neurona\simpleneuron4hls\simpleneuron\nn_defs.h
+	<stdio.h>
+
+1463930977 source:d:\semanticimagesegmentation\c model neurona\simpleneuron4hls\simpleneuron\nn_softmax_apply.c
+	"nn_defs.h"
+	<math.h>
+
+1464181065 source:d:\semanticimagesegmentation\c model neurona\simpleneuron4hls\simpleneuron\nn_update_layer.c
+	"nn_defs.h"
+
+1463929936 source:d:\semanticimagesegmentation\c model neurona\neuron\nn_tansig_apply.c
+	"nn_defs.h"
+	<math.h>
+
+1463943374 d:\semanticimagesegmentation\c model neurona\neuron\nn_defs.h
+	<stdio.h>
+
+1464181075 source:d:\semanticimagesegmentation\c model neurona\simpleneuron4hls\simpleneuron\nn_tansig_apply.c
+	"nn_defs.h"
+	<math.h>
+
